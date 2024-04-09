@@ -1,4 +1,4 @@
---cleaning data in SQL for Nashville Housing Market Analysis
+--Cleaning data in SQL for Nashville Housing Market Analysis
 
 
 select * from portfolioproject.dbo.NashvilleHousing 
